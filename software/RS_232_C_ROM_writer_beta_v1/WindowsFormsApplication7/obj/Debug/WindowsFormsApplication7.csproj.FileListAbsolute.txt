@@ -1,0 +1,20 @@
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\FTD2XX_NET.dll
+c:\users\msk319882\documents\visual studio 2015\Projects\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\FTD2XX_NET.xml
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\msk319882\Desktop\MDKCOM-1_since2016_6_12\ソフトウェア\ROM書き込みソフト\RS_232_C_ROM_writer_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
